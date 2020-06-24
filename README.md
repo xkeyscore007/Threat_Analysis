@@ -1,3 +1,3 @@
 # Threat Analysis and Exploit Develpoment
-Learnings from Malware analysis 
+Learnings - Malware analysis.  
 Exploit Development - Coming soon!
